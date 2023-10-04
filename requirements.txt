@@ -1,0 +1,10 @@
+openai
+python-dotenv
+rich
+black
+ruff
+pyaudio
+wave
+websockets
+openai-whisper
+webrtcvad # For pause detection
